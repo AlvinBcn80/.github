@@ -1,0 +1,22 @@
+{
+  "lerna": "2.8.0",
+  "packages": [
+    "analytics",
+    "auth",
+    "auth-next",
+    "database",
+    "firebaseapp",
+    "firestore",
+    "firestore-next",
+    "functions",
+    "functions-next",
+    "installations",
+    "messaging",
+    "perf",
+    "perf-next",
+    "remoteconfig",
+    "remoteconfig-next",
+    "storage"
+  ],
+  "version": "1.0.0"
+}
